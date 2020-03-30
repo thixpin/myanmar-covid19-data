@@ -99,6 +99,17 @@ We all know that we can make use of much more information, such as list of hospi
 | lat               | လတ္တီကျုဒ်                    | DoMS   |
 | long              | လောင်ဂျီကျုဒ်                 | DoMS   |
 
+# `Development Partners Assistance.csv`
+| data                 | description         | url                                                                                                                                       |
+| -------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Organization/Country | အဖွဲဲ့အစည်း/နိုင်ငံ | \[Medium Post from Leigh Mitchell\](https://medium.com/@leighmitchell/how-are-partners-supporting-myanmars-covid-19-response-cda866b6c74) |
+| Date                 | ရက်စွဲ              | \[Medium Post from Leigh Mitchell\](https://medium.com/@leighmitchell/how-are-partners-supporting-myanmars-covid-19-response-cda866b6c74) |
+| Description          | ထောက်ပံ့မှု         | \[Medium Post from Leigh Mitchell\](https://medium.com/@leighmitchell/how-are-partners-supporting-myanmars-covid-19-response-cda866b6c74) |
+| Type                 | အမျိုးအစား          | \[Medium Post from Leigh Mitchell\](https://medium.com/@leighmitchell/how-are-partners-supporting-myanmars-covid-19-response-cda866b6c74) |
+| Amount               | ပမာဏ                | \[Medium Post from Leigh Mitchell\](https://medium.com/@leighmitchell/how-are-partners-supporting-myanmars-covid-19-response-cda866b6c74) |
+| Remark               | မှတ်ချက်            | \[Medium Post from Leigh Mitchell\](https://medium.com/@leighmitchell/how-are-partners-supporting-myanmars-covid-19-response-cda866b6c74) |
+| Source               | ရင်းမြစ်            | \[Medium Post from Leigh Mitchell\](https://medium.com/@leighmitchell/how-are-partners-supporting-myanmars-covid-19-response-cda866b6c74) |
+
 # `MoHS Dashboard Data Archive`
 Archived datasets of MoHS Dashboard Data
 
