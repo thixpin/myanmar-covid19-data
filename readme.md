@@ -175,3 +175,4 @@ Archived datasets of MoHS Dashboard Data
 
 * Medical Supplies original dataset compiled by Ko Nyein Chan Ko Ko and volunteers
 * Development Partners Assistance data extracted from [this Medium post](https://medium.com/@leighmitchell/how-are-partners-supporting-myanmars-covid-19-response-cda866b6c74) by Leigh Mitchell
+* Volunteers from [ကိုရိုနာဗိုင်းရပ်စ် ကောလာဟလ တန်ပြန်တားဆီးရေး လူထုကွန်ရက်](https://web.facebook.com/groups/198360681431931/) for contact list dataset
