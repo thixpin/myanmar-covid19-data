@@ -18,7 +18,11 @@
 #### နိုင်ငံတကာပံ့ပိုးကူညီမှုဆိုင်ရာ အချက်အလက်များ
 - [Covid-19 တိုက်ဖျက်ရေးအတွက် နိုင်ငံတကာမှလှူဒါန်းမှုများ ဒေတာဆက်](https://github.com/theananda/myanmar-covid19-data/blob/master/Development%20Partners%20Assistance.csv)
 
+#### ရရှိနိုင်သော ဒေတာဆက်များနှင့်ပါတ်သက်၍ သိသင့်သိထိုက်သည်များ 
+- [ဒေတာဆက်များအတွင်းမှ အချက်အလက်များ၏ အသေးစိတ်အချက်အလက်များနှင့် ရယူခဲ့သော ရင်းမြစ်များ](https://github.com/theananda/myanmar-covid19-data/blob/master/readme.md)
 
+#### ဆက်သွယ်ရန်
+hello@theananda.org
 
 ### English
 
@@ -39,4 +43,8 @@
 #### International Aids
 - [Internation Aids to fight against Covid-19 dataset](https://github.com/theananda/myanmar-covid19-data/blob/master/Development%20Partners%20Assistance.csv)
 
+#### About datasets 
+- [Descriptions and Sources of the avaliable datasets](https://github.com/theananda/myanmar-covid19-data/blob/master/readme.md)
 
+#### Contact
+hello@theananda.org
