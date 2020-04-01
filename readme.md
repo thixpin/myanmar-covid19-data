@@ -84,7 +84,6 @@ We all know that we can make use of much more information, such as list of hospi
 # `Medical Supplies with Location.csv`
 | data              | description                   | source |
 | ----------------- | ----------------------------- | ------ |
-| Sn                | အမှတ်စဉ်                      | MoHS   |
 | Announcement Date | ကြေငြာချက်ထုတ်သည့်ရက်စွဲ      | MoHS   |
 | Hospital-original | ဆေးရုံ (မူရင်းကြေငြာချက်)     | MoHS   |
 | hospital-name-mm  | ဆေေးရုံအမည် (မြန်မာ)          | MoHS   |
