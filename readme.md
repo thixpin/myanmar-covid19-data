@@ -165,6 +165,21 @@ Source URL: https://docs.google.com/spreadsheets/d/1UmXfnox_8M11QBIKuReZlKnN1ppI
 | Quantity\_In\_Store | သိုလှောင်ရုံတွင် သိမ်းဆည်းထားသည့်ပမာဏ   | ကြို့ပင်ကောက် စေတနာ့ဝန်ထမ်းများ |
 | Remark              | မှတ်ချက်                                | ကြို့ပင်ကောက် စေတနာ့ဝန်ထမ်းများ |
 
+# `Foreign Returnees.csv`
+
+| data          | description                 | Source |
+| ------------- | --------------------------- | ------ |
+| SR\_Pcode     | တိုင်းဒေသကြီး/ပြည်နယ် Pcode | MIMU   |
+| State\_Region | တိုင််းဒေသကြီး/ပြည်နယ်      |        |
+| Tsp\_Pcode    | မြို့နယ် Pcode              | MIMU   |
+| Township      | မြို့နယ််                   |        |
+| Country       | သွားရောက်ခဲ့သည့် နိုင်ငံ    |        |
+| Returnees     | ပြန်လာသူဦးရေ                |
+
+Source URLs:
+[Taungoo](https://web.facebook.com/tuntunwin.tuntunwin.7/posts/1576515205828936)
+[Nattalin](https://web.facebook.com/Covid19-%E1%80%80%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%90%E1%80%84%E1%80%BA%E1%80%80%E1%80%AC%E1%80%80%E1%80%BD%E1%80%9A%E1%80%BA%E1%80%9B%E1%80%94%E1%80%BA-%E1%80%9B%E1%80%94%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6%E1%80%84%E1%80%BD%E1%80%B1%E1%80%9B%E1%80%BE%E1%80%AC%E1%80%96%E1%80%BD%E1%80%B1%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%96%E1%80%BD%E1%80%B2%E1%80%B7-%E1%80%94%E1%80%90%E1%80%BA%E1%80%90%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%B7-101535398166720/?__tn__=kCH-R&eid=ARAWmyq4k2x9a8TRPzd7K1mlPkzg4Qjj7cnTEg9TqOXhSzRRqvYWM6bLmGlcMglF4Y50u_UlJZzoRDWF&hc_ref=ARSqXV4HpcNhX-zGXiNBD0i8ReJpoHhtajQX8zG8APnOtvjJ6j9g4qXsSriXAvSnSAo&fref=nf&__xts__[0]=68.ARAAgcL-CN9UtHPkACbGlBzMPLtDYKZuW0jKpF0MwYB9OcWk1uD0AIapGPpuP5sN6_27YWG5OlpnSZWZ1-NTJ7ew556_h7RHfgW-iic6QxIr82CwkP1H1cyYF-T-UZC0JFhnEJ9FgjAvgXG1IihMLS4YIDXR5Dz7isWWsc_6sRC9UkzlmFgeJX9jflgRIkD67ev60rjaj17BPMvg3PPLSfMtxlRziszeGfWiYP9qA6RC0p-Z4d4Ls7PrQr7TVBBLFVkcw0FaCIrd4PIQKAoNqOE-fzIgiOta0UO_7-X6Yy-jWZsGqVZwcg2ffY880nhLLRdzmBiTTdAajSqBKBvl2ZRf)
+
 
 # `MoHS Dashboard Data Archive`
 Archived datasets of MoHS Dashboard Data
