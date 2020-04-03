@@ -14,7 +14,7 @@ Please note that these data are not perfect and need checking and adding, so we 
 
 And always refer to the original source.   
 
-We all know that we can make use of much more information, such as list of hospitals wwith ventilators, which the goverment is likely to hold in any format. So, hey, the Ministry of Health and Sports, please release more relevant information however imperfect they maybe. You can make use of the civic hackers out there to clean them. 
+We all know that we can make use of much more information, such as list of hospitals with ventilators, which the goverment is likely to hold in any format. So, hey, the Ministry of Health and Sports, please release more relevant information however imperfect they maybe. You can make use of the civic hackers out there to clean them. 
 
 ### Data Dictionary  
 
@@ -39,7 +39,7 @@ We all know that we can make use of much more information, such as list of hospi
 
 Source URL[1]: https://data.opendevelopmentmekong.net/dataset/68c62eb8-399d-42f4-a786-131bc0460844
 
-Source URL[2]: themimu.info
+Source URL[2]: https://themimu.info
 
 # `Hospitals.csv`
 
