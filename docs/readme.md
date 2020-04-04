@@ -21,6 +21,10 @@
 #### ရရှိနိုင်သော ဒေတာဆက်များနှင့်ပါတ်သက်၍ သိသင့်သိထိုက်သည်များ 
 - [ဒေတာဆက်များအတွင်းမှ အချက်အလက်များ၏ အသေးစိတ်အချက်အလက်များနှင့် ရယူခဲ့သော ရင်းမြစ်များ](https://github.com/theananda/myanmar-covid19-data/blob/master/readme.md)
 
+#### [Github တွင် အချက်အလက်များ ဝင်ရောက်ပြင်ဆင်ဖြည့်သွင်းနည်းလမ်းညွှန်](https://theananda.github.io/myanmar-covid19-data/git_help)
+
+#### [ကောက်ယူရန်လိုအပ်သော အချက်အလက်များ အကြံပြုချက်](https://theananda.github.io/myanmar-covid19-data/data_required)
+
 #### ဆက်သွယ်ရန်
 hello@theananda.org
 
