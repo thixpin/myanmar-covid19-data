@@ -49,6 +49,8 @@ hello@theananda.org
 
 #### About datasets 
 - [Descriptions and Sources of the avaliable datasets](https://github.com/theananda/myanmar-covid19-data/blob/master/readme.md)
+#### [Github guide]https://theananda.github.io/myanmar-covid19-data/git_help)
 
+#### [Data Requirements Suggestion](https://theananda.github.io/myanmar-covid19-data/data_required)
 #### Contact
 hello@theananda.org
