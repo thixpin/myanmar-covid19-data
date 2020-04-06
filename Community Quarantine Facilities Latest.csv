@@ -1,4 +1,4 @@
-SR_Pcode,State_Region,Tsp_Pcode,Township,Facility,Date_as_of,Male,Female,Total
+SR_Pcode,State_Region,Tsp_Pcode,Township,Facility,Date,Male,Female,Total
 MMR008,Bago,MMR008012,Nattalin,အထက (နတ္တလင်း),5/4/2020,23,5,28
 MMR008,Bago,MMR008012,Nattalin,အထက (တာပွန်),5/4/2020,22,4,26
 MMR008,Bago,MMR008012,Nattalin,အလက (ပွတ်စု),5/4/2020,17,0,17
@@ -435,3 +435,6 @@ MMR002,Kayah,MMR002006,Hpasawng,ဖားဆောင်း အ.ထ.က,5/4/2020
 MMR002,Kayah,MMR002006,Hpasawng,လိုခါးလို ကြယ်ဖြူခန်းမ (မော်ချီး),5/4/2020,0,0,0
 MMR002,Kayah,MMR002006,Hpasawng,သတ္တုတူးဖော်ရေးလုပ်ငန်းစက်ရုံ ဝန်ထမ်းအိမ်ရာ,5/4/2020,0,0,0
 MMR002,Kayah,MMR002007,Mese,မယ်စဲ့မြို့နယ် ကျန်းမာရေးဌာနပိုင်အဆောက်အဦ,5/4/2020,3,3,6
+MMR001,Kachin,MMR001011,Shwegu,နေအိမ်,3/4/2020,NA,NA,70
+MMR001,Kachin,MMR001011,Shwegu,ဘာသာရေးအဆောက်အဦး,3/4/2020,NA,NA,13
+MMR001,Kachin,MMR001011,Shwegu,စာသင်ကျောင်း/တက္ကသိုလ်,3/4/2020,NA,NA,88
